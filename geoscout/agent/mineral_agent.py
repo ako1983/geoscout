@@ -17,6 +17,10 @@ from langgraph.graph.message import add_messages
 import rasterio
 import numpy as np
 from pathlib import Path
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 
 # Site information

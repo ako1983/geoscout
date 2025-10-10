@@ -15,6 +15,10 @@ import numpy as np
 import rasterio
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).parent.parent))
