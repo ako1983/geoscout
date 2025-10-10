@@ -85,4 +85,4 @@ Built in 3 hours. Cost: $2.28
 
 Built with Claude Code + Anthropic Claude AI
 Team: ClaAko (Claude + Ako) + Claude Code
-GitHub: [your-repo]
+GitHub: https://github.com/ako1983/geoscout
